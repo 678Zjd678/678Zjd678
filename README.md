@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...web applicition develop
 - 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me lingwu892892@gmail.com
+- 📫 How to reach me lingwu892@gmail.com
 
 <!---
 a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
